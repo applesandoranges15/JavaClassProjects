@@ -3,4 +3,19 @@ Class projects completed during CS 351: Introduction to Data Structures and Algo
 
 Homework 1: Demonstrates knowledge of object oriented programming fundamentals by modeling a particle with fields of position, modeling, mass, and color.
 
-Homework 2:
+Homework 4:
+
+Homework 7:
+
+Homework 8:
+
+
+Homework 9:
+
+
+Homework 11:
+
+
+Homework 12:
+
+
